@@ -1,3 +1,10 @@
 body {
    background-color: antiquewhite;
 }
+
+footer {
+    background-color: sienna;
+    color: rgb(255, 252, 252);
+    position: fixed;
+    bottom: 0;
+}
